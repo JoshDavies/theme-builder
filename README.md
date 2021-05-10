@@ -46,7 +46,7 @@ Overall, I am pleased with this design pattern as it passes all the criteria I s
 To give a brief description, this SCSS Mixin:  
 ```SCSS
 .primaryButton {  
-	  @include theme-aware('border-color', 'button-primary-border');  
+    @include theme-aware('border-color', 'button-primary-border');  
 }  
 ```
 Compiles into this CSS:  
