@@ -33,6 +33,9 @@ To Launch the app locally:
 > npm install
 > npm run build
 > npm start
+  
+# Deploy to GitHub Pages:  
+> npm run deploy
 ```
   
 -----------
